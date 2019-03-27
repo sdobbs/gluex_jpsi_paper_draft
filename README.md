@@ -12,6 +12,10 @@
 
 * Versions
   * Software: sw_sim.xml
+* How to generate simulations
+  * J/psi:
+  * phi: 
+  * Bethe-Heitler: 
 * How to generate ROOT Trees:
   * hd_root --config=loose.opts -PPLUGINS=jpsi_lp [REST_FILES]
 
@@ -22,5 +26,5 @@
   * Run using runDSelector.C
 
 * Scripts to perform fits and generate tables in paper
-* Scripts to generate 
+* Scripts to generate figures in paper
 * Upper limit calculations
