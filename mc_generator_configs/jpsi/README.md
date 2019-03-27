@@ -1,0 +1,3 @@
+We run J/psi simulations with the bggen_jpsi program and the configuration files stored here.
+
+We make the following variations...
