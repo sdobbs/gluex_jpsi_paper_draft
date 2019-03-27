@@ -11,15 +11,15 @@
 ## Simulations
 
 * Versions
-** Software: sw_sim.xml
+  * Software: sw_sim.xml
 * How to generate ROOT Trees:
-** hd_root --config=loose.opts -PPLUGINS=jpsi_lp [REST_FILES]
+  * hd_root --config=loose.opts -PPLUGINS=jpsi_lp [REST_FILES]
 
 ## Analysis
 
 * DSelector_jpsi.C
 * DSelector_jpsi.h
-** Run using runDSelector.C
+  * Run using runDSelector.C
 
 * Scripts to perform fits and generate tables in paper
 * Scripts to generate 
